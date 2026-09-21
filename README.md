@@ -2,7 +2,7 @@
 
 Sistem manajemen parkir berbasis PHP (mysqli) + MySQL, dijalankan di XAMPP (`htdocs/parkir_mall/`).
 WIREFRAME / MOCKUP UI, UX DESIGN (USER EXPERIENCE), FLOWCHART / USERFLOW dan ERD & BASIS DATA
-https://sidiqferynur.github.io/muckupui/
+https://sidiqferynur.github.io/muckupui/, https://www.canva.com/design/DAHVyjDCrdQ/vzYCIKlFJ7HDEWCE5muTaA/edit?ui=e30
 
 ## Struktur File
 
